@@ -10,5 +10,5 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.homepage    = 'https://github.com/Miniand/zooz-ruby'
   s.add_dependency('activesupport', '~> 3.2.0')
-  s.add_dependency('httparty', '~> 0.8.0')
+  s.add_dependency('httparty', '~> 0.11.0')
 end
